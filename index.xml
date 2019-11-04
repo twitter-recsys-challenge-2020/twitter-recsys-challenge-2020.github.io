@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RecSys Challenge 2020</title>
-    <link>http://localhost:1313/</link>
+    <link>https://twitter-recsys-challenge-2020.github.io/</link>
     <description>Recent content on RecSys Challenge 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://twitter-recsys-challenge-2020.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://localhost:1313/leaderboard/</link>
+      <link>https://twitter-recsys-challenge-2020.github.io/leaderboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/leaderboard/</guid>
+      <guid>https://twitter-recsys-challenge-2020.github.io/leaderboard/</guid>
       <description> Leaderboard    Entry RCE Submission Date     Team A 43.676 2019-04-05   Team B 43.565 2019-04-03   Team C 43.899 2019-04-07    </description>
     </item>
     
