@@ -3,16 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://twitter-recsys-challenge-2020.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://twitter-recsys-challenge-2020.github.io/leaderboard/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://twitter-recsys-challenge-2020.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://twitter-recsys-challenge-2020.github.io/</loc>
   </url>
   
   <url>
